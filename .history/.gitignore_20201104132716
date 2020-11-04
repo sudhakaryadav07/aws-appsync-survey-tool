@@ -31,6 +31,7 @@ amplify/team-provider-info.json
 build/
 dist/
 node_modules/
+aws-exports.js
 awsconfiguration.json
 
 #amplify
